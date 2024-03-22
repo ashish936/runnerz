@@ -10,7 +10,6 @@ import java.util.stream.Collectors;
 
 @Repository
 public class RunRepository {
-/*
     private List<Run> runs = new ArrayList<>();
 
     List<Run> findAll() {
@@ -46,8 +45,5 @@ public class RunRepository {
             runs.remove(runs.indexOf(existingRun.get()));
         }
     }
-    */
-
-
 
 }
